@@ -1,1 +1,3 @@
 This is the README for my practice repo.
+Info...
+This is a description of the app I'm currently developing.
